@@ -2,19 +2,19 @@
 
   <p align="center">
 
-<img src="https://i.imgur.com/lyHK5jN.jpeg" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/jGtEuLp.jpeg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="SPARKY-V1" src="https://img.shields.io/badge/astro-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SPARKY-V1"
 
 </p>
 
 </div>
 
-#### <p align="center">By ASWIN SPARKY| © | Reserved  </br> 
+#### <p align="center">By ASWIN SPARKY </br> 
 
 # SPARKY-BOT-V1.0
 
@@ -28,7 +28,7 @@
 
 </p>
 
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
+ ## My Website : [Click Heare](https://sparkymodswa.blogspot.com)
 
 1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
@@ -46,6 +46,6 @@
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`MR.Nima`](https://github.com/DarkMakerofc)
-* [`EDM-OFFICIAL`](https://github.com/edm-official)
-* [`Sanuwa-Official`](https://github.com/sanuwaofficial)
+* [`BINO`](https://github.com/DarkMakerofc)
+* [`MOROX3`](https://github.com/edm-official)
+* [`ALONE BOY`](https://github.com/sanuwaofficial)
