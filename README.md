@@ -55,7 +55,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`ASWIN SPARKY`](https://github.com/Sparkymon777)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
