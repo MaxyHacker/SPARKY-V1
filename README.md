@@ -2,13 +2,7 @@
 
   <p align="center">
 
-<img src="https://i.imgur.com/jGtEuLp.jpeg" alt="GIF" width="300" height="270"/>
-
-</p>
-
-  <p align="center">
-
-<a href="#"><img title="SPARKY-V1"
+<img src="https://i.imgur.com/0kCevVf.jpeg" alt="GIF" width="300" height="270"/>
 
 </p>
 
