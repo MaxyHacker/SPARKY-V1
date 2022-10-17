@@ -40,6 +40,6 @@
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`BINO`](https://github.com/DarkMakerofc)
-* [`MOROX3`](https://github.com/edm-official)
+* [`BINO`](https://github.com/Sparky-King)
+* [`MOROX3`](https://github.com/morohhx)
 * [`ALONE BOY`](https://github.com/sanuwaofficial)
