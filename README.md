@@ -14,7 +14,7 @@
 
    ```Thanks Fro using SPARKY-V1```
    
-# Support Group <a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=White"/></a>
+# Support Group <a href="https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-green?style=for-the-badge&logo=whatsapp&logoColor=White"/></a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+SPARKY+V1+WA+BOT.;CREATED+BY+Aswin+Sparky;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
